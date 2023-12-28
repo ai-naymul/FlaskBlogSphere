@@ -69,3 +69,10 @@ wadllib==1.3.3
 whois==0.9.27
 zipp==1.0.0
 zope.interface==4.7.1
+flask_bootstrap
+flask_ckeditor
+flask_gravatar
+flask_login
+flask_sqlalchemy
+sqlalchemy
+werkzeug
